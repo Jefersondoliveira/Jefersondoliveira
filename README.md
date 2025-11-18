@@ -21,14 +21,6 @@ Sou estudante de **Ciência da Computação** e entusiasta do mundo Open Source.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jefersondoliveira&show_icons=true&theme=dracula)
-
-
-
----
-
 ### 📫 Contato
 * [LinkedIn](link-para-seu-linkedin)
 * [Email](mailto:seu-email@exemplo.com)
