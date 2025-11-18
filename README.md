@@ -1,4 +1,4 @@
-### Olá, eu sou [Seu Nome]! 👋
+### Olá, eu sou Jeferson! 👋
 
 Sou estudante de **Ciência da Computação** e entusiasta do mundo Open Source. Atualmente, meu foco está em unir desenvolvimento de software com impacto social real.
 
