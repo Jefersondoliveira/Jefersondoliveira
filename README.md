@@ -1,6 +1,6 @@
-### Olá, eu sou Jeferson! 👋
+### Jeferson, o pròprio! 👋
 
-Sou estudante de **Ciência da Computação** e entusiasta do mundo Open Source. Atualmente, meu foco está em unir desenvolvimento de software com impacto social real.
+Estudante de **Ciência da Computação** e entusiasta do mundo Open Source. Atualmente, meu foco está em unir desenvolvimento de software com impacto social real.
 
 ---
 
